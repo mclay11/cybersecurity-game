@@ -1,2 +1,5 @@
 # cybersecurity-game
 A cybersecurity simulation that utilizes concepts of decision theory.
+
+Project Description: Cybersecurity Simulator
+For my cybersecurity simulation, I decided to create a text adventure game in Python. In the game, you work as a cybersecurity professional for a company that stores valuable customer data. This data is sought out by hackers that want to make a profit and it is the player’s job to make sure the company doesn’t lose too much money. The game goes through 5 different cybersecurity scenarios that each include the chance of the attack occurring and the potential costs. The player starts the game with $5,000 and has the choice between two decisions for each scenario, the first always being to spend money to take precautions, and the second to accept the risk. However, there is not enough money to choose to take precautions every single time, so some strategy may need to be involved. If the player decides to calculate expected outcomes using contingency tables for each scenario, they will find that the favorable decision will vary between scenarios.
